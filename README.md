@@ -8,3 +8,8 @@ Custom crossed-gantry printer (Work in progress)
   - Quick auto bed leveling
   - Less need for a bed-mesh
   - Possible use for 5 axis prints in the future
+- Build volume
+  - Estimated 350x350x400 mm^3 for large parts
+- Extruder
+  - Dragon Phaetus UHF for >500mm/s (0.4 nozzle at 0.2 layer height)
+  - All-metal hotend for high temp polymers (Polycarbonate, Nylon, possibly PEI and PEEK)
