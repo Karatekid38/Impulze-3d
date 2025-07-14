@@ -5,6 +5,7 @@
 ![image](https://github.com/Karatekid38/Impulze-3d/assets/62526473/867e4be5-6de4-44f7-9d31-38aa81ab5b98)
 
 ------
+Link to 4:33 benchy ---> https://www.youtube.com/watch?v=aP2hbHY-1L0
 
 * Large format FDM 3d-printer
   * **310x310x350mm** build volume
